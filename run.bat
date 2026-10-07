@@ -1,0 +1,1 @@
+﻿.\llamafile-0.10.6.exe --server --model .\Qwen3-8B-Q3_K_M.gguf --chat-template-file .\qwen3_nonthinking.jinja

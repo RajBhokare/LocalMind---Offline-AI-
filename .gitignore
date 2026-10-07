@@ -1,0 +1,29 @@
+# Large model and executable
+*.gguf
+*.exe
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node.js
+node_modules/
+dist/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Generated files and logs
+*.log
+data/uploads/
+data/processed/
+data/generated/
+data/vectorstore/
+
+# OS files
+.DS_Store
+Thumbs.db
